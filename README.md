@@ -13,7 +13,7 @@
 
 - 💬 Ask me about>HTML , CSS , JAVA , JQUERY , BOOTSTRAP , JAVA</h1> 
 <h3 align
-- 📫 How to reach me 👋, amritpritam226@gmail.com</h1></h3>
+<h1>- 📫 How to reach me 👋, amritpritam226@gmail.com</h1></h3>
 - ⚡ Fun fact : Coffee + Code = My natural habit</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
