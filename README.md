@@ -1,5 +1,5 @@
-> Amrit Pritam:
-<h1 align="center">Hi 👋, I'm Amrit Pritam Mohanty</h1>
+
+<h1 align="center">Hi 👋, This is Amrit Pritam Mohanty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" alt="coding" width="400">
 
@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://twitter.com/amritpritam05" target="blank"><img src="https://img.shields.io/twitter/follow/amritpritam05?logo=twitter&style=for-the-badge" alt="amritpritam05" /></a> </p>
 
 - 🌱 I’m currently learning **Java (DSA) , FullStack Web Development , Cyber Security, AIML**
- <br>
-- 💬 Ask me about>HTML , CSS , JAVA , JQUERY , BOOTSTRAP , JAVA</h1> <br>
+
+- 💬 Ask me about>HTML , CSS , JAVA , JQUERY , BOOTSTRAP , JAVA</h1> 
 <h3 align
 - 📫 How to reach me 👋, amritpritam226@gmail.com</h1></h3>
 - ⚡ Fun fact : Coffee + Code = My natural habit</h1>
