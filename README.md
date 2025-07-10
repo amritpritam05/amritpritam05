@@ -14,7 +14,7 @@
 - 💬 Ask me about>HTML , CSS , JAVA , JQUERY , BOOTSTRAP , JAVA</h1> 
 <h3 align
 <h1>- 📫 How to reach me 👋, amritpritam226@gmail.com</h1></h3>
-- ⚡ Fun fact : Coffee + Code = My natural habit</h1>
+- ⚡ Fun fact : I speak fluent sarcasm, and I strongly believe dogs should be on LinkedIn too.</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amritpritam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amritpritam05" height="30" width="40" /></a>
