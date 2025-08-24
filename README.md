@@ -33,7 +33,8 @@
 <a href="https://instagram.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/Instagram-%40amritpritam05-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://fb.com/amritpritam.mohanty" target="blank"><img src="https://img.shields.io/badge/Facebook-Amrit%20Pritam%20Mohanty-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.hackerrank.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/Hackerrank-amritpritam05-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/></a>
-<a href="https://leetcode.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/LeetCode-amritpritam05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/></a>
+<a href="https://leetcode.com/u/amritpritam05/" target="blank"><img src="https://img.shields.io/badge/LeetCode-amritpritam05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/></a>
+<a href="https://www.geeksforgeeks.org/user/amritpritlc4/" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-amritpritlc4-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
 
 ---
@@ -51,18 +52,17 @@
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Projects  
 - 🕵️ [Info Gathering Tool](https://github.com/amritpritam05/INFO-GATHERING-TOOL)  
 - 🌐 [index.html (Static Website)](https://github.com/amritpritam05/index.html)  
 - 🎮 [Guess the Number (C)](https://github.com/amritpritam05/guess_number_C_Lang)  
 - 💼 [Portfolio Website](https://github.com/amritpritam05/portfolio.html)  
 - 🚜 [Farmer Rental Project](https://github.com/amritpritam05/Farmer_Rental)  
-- 🧑‍🎓 [Student Buddy - Chrome Extension](https://github.com/amritpritam05/student-buddy)  
 - 📄 [Resume Parser (Node.js + Express)](https://github.com/amritpritam05/resume-parser)  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amritpritam05&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritpritam05&layout=compact&theme=tokyonight" alt="languages" />
@@ -71,7 +71,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritpritam05&theme=react-dark&hide_border=true)
 
 ---
