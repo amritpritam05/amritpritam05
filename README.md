@@ -1,5 +1,9 @@
 <!-- Profile README for Amrit Pritam Mohanty -->
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amritpritam05&label=Profile%20views&color=0e75b6&style=flat" alt="amritpritam05" /> 
+</p>
+
 <h1 align="center">Hi 👋, I'm Amrit Pritam Mohanty</h1>
 <h3 align="center">A passionate Frontend Developer & Tech Enthusiast from India 🇮🇳</h3>
 
