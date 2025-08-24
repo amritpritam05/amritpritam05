@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amrit Pritam Mohanty</h1>
-<h3 align="center">A passionate Frontend Developer & Tech Enthusiast from India (🇮🇳)</h3>
+<h3 align="center">A passionate Frontend Developer & Tech Enthusiast from India 🇮🇳</h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Java (DSA), Full-Stack Web Development, Cyber Security, AI/ML**  
-- 💬 Ask me about **Java, Python, C, HTML, CSS, JavaScript,Node.js,Express.js ,jQuery, Bootstrap**  
+- 💬 Ask me about **Java, Python, C, HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, Express.js**  
 - 📫 Reach me at **amritpritam226@gmail.com**  
 - ⚡ Fun fact: I speak fluent sarcasm & believe dogs deserve LinkedIn too 🐶  
 
@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://twitter.com/amritpritam05" target="blank"><img src="https://img.shields.io/twitter/follow/amritpritam05?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
 <a href="https://linkedin.com/in/amritpritam05" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Amrit%20Pritam%20Mohanty-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://instagram.com/amritpritam_05" target="blank"><img src="https://img.shields.io/badge/Instagram-%40amritpritam_05-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://instagram.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/Instagram-%40amritpritam05-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://fb.com/amritpritam.mohanty" target="blank"><img src="https://img.shields.io/badge/Facebook-Amrit%20Pritam%20Mohanty-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.hackerrank.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/Hackerrank-amritpritam05-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/></a>
 <a href="https://leetcode.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/LeetCode-amritpritam05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/></a>
@@ -42,6 +42,8 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -50,7 +52,11 @@
 ---
 
 ### 🏆 Featured Projects
+- 🕵️ [Info Gathering Tool](https://github.com/amritpritam05/INFO-GATHERING-TOOL)  
+- 🌐 [index.html (Static Website)](https://github.com/amritpritam05/index.html)  
 - 🎮 [Guess the Number (C)](https://github.com/amritpritam05/guess_number_C_Lang)  
+- 💼 [Portfolio Website](https://github.com/amritpritam05/portfolio.html)  
+- 🚜 [Farmer Rental Project](https://github.com/amritpritam05/Farmer_Rental)  
 - 🧑‍🎓 [Student Buddy - Chrome Extension](https://github.com/amritpritam05/student-buddy)  
 - 📄 [Resume Parser (Node.js + Express)](https://github.com/amritpritam05/resume-parser)  
 
@@ -65,8 +71,8 @@
 
 ---
 
-### 🐍 Contribution Graph
-![snake gif](https://github.com/amritpritam05/amritpritam05/blob/output/github-contribution-grid-snake.svg)
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritpritam05&theme=react-dark&hide_border=true)
 
 ---
 
