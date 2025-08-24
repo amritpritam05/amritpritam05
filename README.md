@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amrit Pritam Mohanty</h1>
-<h3 align="center">A passionate Frontend Developer & Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Frontend Developer & Tech Enthusiast from India (🇮🇳)</h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Java (DSA), Full-Stack Web Development, Cyber Security, AI/ML**  
-- 💬 Ask me about **Java, Python, C, HTML, CSS, JavaScript, jQuery, Bootstrap**  
+- 💬 Ask me about **Java, Python, C, HTML, CSS, JavaScript,Node.js,Express.js ,jQuery, Bootstrap**  
 - 📫 Reach me at **amritpritam226@gmail.com**  
 - ⚡ Fun fact: I speak fluent sarcasm & believe dogs deserve LinkedIn too 🐶  
 
