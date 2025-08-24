@@ -1,38 +1,69 @@
+<!-- Profile README for Amrit Pritam Mohanty -->
 
-<h1 align="center">Hi 👋, This is Amrit Pritam Mohanty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" alt="coding" width="400">
+<h1 align="center">Hi 👋, I'm Amrit Pritam Mohanty</h1>
+<h3 align="center">A passionate Frontend Developer & Tech Enthusiast from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritpritam05&label=Profile%20views&color=0e75b6&style=flat" alt="amritpritam_05" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritpritam05" alt="amritpritam05" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/amritpritam05" target="blank"><img src="https://img.shields.io/twitter/follow/amritpritam05?logo=twitter&style=for-the-badge" alt="amritpritam05" /></a> </p>
-
-- 🌱 I’m currently learning **Java (DSA) , FullStack Web Development , Cyber Security, AIML**
-
-- 💬 Ask me about>  JAVA , PYTHON , C, HTML , CSS , JAVASCRIPT , JQUERY , BOOTSTRAP ,</h1> 
-<h3 align
-<h1>- 📫 How to reach me 👋, amritpritam226@gmail.com</h1></h3>
-- ⚡ Fun fact : I speak fluent sarcasm, and I strongly believe dogs should be on LinkedIn too.</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amritpritam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amritpritam05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amritpritam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amritpritam05" height="30" width="40" /></a>
-<a href="https://fb.com/amrit pritam mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amrit pritam mohanty" height="30" width="40" /></a>
-<a href="https://instagram.com/amritpritam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amritpritam_05" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amritpritam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amritpritam05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amritpritam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amritpritam05" height="30" width="40" /></a>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76C6C&width=600&lines=Frontend+Developer;Java+%26+DSA+Learner;Cyber+Security+Enthusiast;Full+Stack+Developer+in+Progress;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.
+---
 
-> Amrit Pritam:
-app/api/top-langs?username=amritpritam05&show_icons=true&locale=en&layout=compact" alt="amritpritam05" /></p>
+### 👨‍💻 About Me  
+- 🌱 Currently learning **Java (DSA), Full-Stack Web Development, Cyber Security, AI/ML**  
+- 💬 Ask me about **Java, Python, C, HTML, CSS, JavaScript, jQuery, Bootstrap**  
+- 📫 Reach me at **amritpritam226@gmail.com**  
+- ⚡ Fun fact: I speak fluent sarcasm & believe dogs deserve LinkedIn too 🐶  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritpritam05&show_icons=true&locale=en" alt="amritpritam05" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritpritam05&" alt="amritpritam05" /></p>
+### 🌐 Connect with Me  
+<p align="left">
+<a href="https://twitter.com/amritpritam05" target="blank"><img src="https://img.shields.io/twitter/follow/amritpritam05?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/amritpritam05" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Amrit%20Pritam%20Mohanty-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://instagram.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/Instagram-%40amritpritam05-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://fb.com/amritpritam.mohanty" target="blank"><img src="https://img.shields.io/badge/Facebook-Amrit%20Pritam%20Mohanty-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.hackerrank.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/Hackerrank-amritpritam05-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/></a>
+<a href="https://leetcode.com/amritpritam05" target="blank"><img src="https://img.shields.io/badge/LeetCode-amritpritam05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/></a>
+</p>
+
+---
+
+### 🚀 Tech Stack  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+### 🏆 Featured Projects
+- 🎮 [Guess the Number (C)](https://github.com/amritpritam05/guess_number_C_Lang)  
+- 🧑‍🎓 [Student Buddy - Chrome Extension](https://github.com/amritpritam05/student-buddy)  
+- 📄 [Resume Parser (Node.js + Express)](https://github.com/amritpritam05/resume-parser)  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritpritam05&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritpritam05&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amritpritam05&theme=highcontrast" alt="streak" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+![snake gif](https://github.com/amritpritam05/amritpritam05/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">✨ Crafted with ❤️ by Amrit Pritam Mohanty ✨</p>
