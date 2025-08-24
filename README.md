@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java (DSA) , FullStack Web Development , Cyber Security, AIML**
 
-- 💬 Ask me about>HTML , CSS , JAVA , JQUERY , BOOTSTRAP , JAVA</h1> 
+- 💬 Ask me about>  JAVA , PYTHON , C, HTML , CSS , JAVASCRIPT , JQUERY , BOOTSTRAP ,</h1> 
 <h3 align
 <h1>- 📫 How to reach me 👋, amritpritam226@gmail.com</h1></h3>
 - ⚡ Fun fact : I speak fluent sarcasm, and I strongly believe dogs should be on LinkedIn too.</h1>
